@@ -1,0 +1,7 @@
+Roboflow Dataset Link -> https://universe.roboflow.com/touatimed2/fire-detection-v3-or0i1
+
+
+To integrate 
+
+
+
